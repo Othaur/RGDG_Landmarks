@@ -1,0 +1,11 @@
+Fonts used on map:
+
+Select a Mission - Arial Black, Size 36, Bold
+
+Province Names - Century Gothic, Size 36 (saved on white background, then copied as transparent (maintains slight white outline).
+
+Town Names - Century Gothic, Size 16, Bold
+
+High Score / Difficulty Menu - Arial Black, Size 16, Bold
+
+
